@@ -1,4 +1,4 @@
-REC1="julian.fernando@ui.ac.id"
+REC1="operatingsystems@vlsm.org"
 REC2="fernando.julian11@gmail.com"
 FILES="my*.asc my*.txt my*.sh"
 SHA="SHA256SUM"
