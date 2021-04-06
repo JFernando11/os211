@@ -34,3 +34,10 @@ ZCZC W04 55 L25 C-language: study, etc.
 ZCZC W04 30 L05 GSGS related
 ZCZC W04 60 L03 Github related
 ZCZC W04 45 L06 Reading References/Books/Documents
+ZCZC W05 90 L02 Zoom related
+ZCZC W05 90 L25 C-language: study, etc.
+ZCZC W05 60 L04 Github Pages: setting, etc.
+ZCZC W05 60 L15 Assignment #5
+ZCZC W05 60 L25 C-language: study, etc.
+ZCZC W05 30 L05 GSGS related
+ZCZC W05 15 L03 Github related
