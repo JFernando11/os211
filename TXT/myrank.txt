@@ -17,3 +17,9 @@ ZCZC W05 kgtgeo
 ZCZC W06 jojonicho
 ZCZC W06 kalEl2001
 ZCZC W06 jsaonn
+ZCZC W07 kalEl2001
+ZCZC W07 jsaonn
+ZCZC W07 jojonicho
+ZCZC W08 kalEl2001
+ZCZC W08 jojonicho
+ZCZC W08 jsaonn
