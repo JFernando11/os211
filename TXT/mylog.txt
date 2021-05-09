@@ -65,3 +65,28 @@ ZCZC W07 60 L16 Assignment #6
 ZCZC W07 60 L25 C-language: study, etc.
 ZCZC W07 30 L05 GSGS related
 ZCZC W07 15 L03 Github related
+ZCZC W08 90 L02 Zoom related
+ZCZC W08 90 L25 C-language: study, etc.
+ZCZC W08 60 L04 Github Pages: setting, etc.
+ZCZC W08 60 L18 Assignment #8
+ZCZC W08 60 L25 C-language: study, etc.
+ZCZC W08 30 L05 GSGS related
+ZCZC W08 15 L03 Github related
+ZCZC W08 90 L25 C-language: study, etc.
+ZCZC W08 60 L04 Github Pages: setting, etc.
+ZCZC W08 60 L18 Assignment #8
+ZCZC W08 60 L25 C-language: study, etc.
+ZCZC W08 30 L05 GSGS related
+ZCZC W08 15 L03 Github related
+ZCZC W08 90 L25 C-language: study, etc.
+ZCZC W08 60 L04 Github Pages: setting, etc.
+ZCZC W08 60 L18 Assignment #8
+ZCZC W08 60 L25 C-language: study, etc.
+ZCZC W08 30 L05 GSGS related
+ZCZC W08 15 L03 Github related
+ZCZC W08 90 L25 C-language: study, etc.
+ZCZC W08 60 L04 Github Pages: setting, etc.
+ZCZC W08 60 L18 Assignment #8
+ZCZC W08 60 L25 C-language: study, etc.
+ZCZC W08 30 L05 GSGS related
+ZCZC W08 15 L03 Github related
