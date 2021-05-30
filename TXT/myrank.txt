@@ -26,3 +26,6 @@ ZCZC W08 jsaonn
 ZCZC W09 kalEl2001
 ZCZC W09 jojonicho
 ZCZC W09 jsaonn
+ZCZC W10 kalEl2001
+ZCZC W10 jojonicho
+ZCZC W10 jsaonn
